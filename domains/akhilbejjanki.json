@@ -4,6 +4,12 @@
     "email": "akhilbejjanki02@gmail.com"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "A": ["216.198.79.1"],
+    "TXT": [
+      {
+        "name": "_vercel",
+        "value": "vc-domain-verify=akhilbejjanki.is-a.dev,83be8d1dae8e564d1f0d"
+      }
+    ]
   }
 }
